@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello Everyone! I am a junior computer science major with a concentration in cybersecurity, attending Norfolk State University. Right now I am interning for UCSC Open Source Contributor Catalyst Program.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've created this blog to share my skills, knowledge, and learnings from the summer program. This space allows me to document my growth, showcase the projects I work on, and reflect on my journey in real time. I aim to continue sharing my experiences and talents here even after the program ends, as I grow further in tech and beyond.  
+
+If you would like to know more about me, please locate "My First Blog" on my blog page.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email💌](mailto:2005kiyabrown@gmail.com)
