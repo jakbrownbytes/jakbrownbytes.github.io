@@ -3,7 +3,7 @@ layout: post
 title: My Motivation!
 ---    
 
-<img src="images/sunflower2.jpg" alt="sunflower" style="width:25%;">
+<img src="/images/sunflower2.jpg" alt="sunflower" style="width:25%;">
 
 One challenge I want to solve with technology is securing the software that powers so much of our digital world. From the apps on our phones to school platforms, hospitals, and government systems, this software is used daily by people everywhere. But because many of these projects lack proper security support, they become easy targets — leaving millions vulnerable to data breaches, malware, and cyberattacks. I want to help protect everyday users and make sure the technology we all depend on stays trustworthy, safe, and secure.  
 
