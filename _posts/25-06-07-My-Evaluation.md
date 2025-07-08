@@ -15,7 +15,8 @@ One of the first things that stood out to me is how inclusive and active the com
 If I were to contribute to the project, the first thing I’d do is read through the README file. It gives a clear overview of the project’s purpose and how the tool works. I’d also take time to review important documents like the Code of Conduct, as well as technical guides such as:  
 - repository.md: outlines how to associate GitHub projects with Scorecard  
 - beginners-check.md: highlights which checks are beginner-friendly  
-- contributing.md: provides the full breakdown of how to get involved, set up the tool, and start contributing  
+- contributing.md: provides the full breakdown of how to get involved, set up the tool, and start contributing
+  
 There are also design documents, installation guides, and action setup instructions that give insight into how the project is built and how it can be integrated with GitHub Actions.
 
 ### Tracking Bugs and New Features  
