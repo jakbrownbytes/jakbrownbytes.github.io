@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: First Steps Into Contributing
+title: First Steps Into Contributing!
 ---    
 
 <img src="/images/purple_iris.jpg" alt="Irisflower" style="width:25%;">  
